@@ -72,9 +72,7 @@
 
 ## ◈ Interests
 
-| 💻 Computers | 🎹 Piano |
-|:---:|:---:|
-| Home lab · hardware builds · self-hosted servers | Weekly lessons · pattern recognition · discipline |
+💻 Home lab · hardware builds · self-hosted servers
 
 </div>
 
